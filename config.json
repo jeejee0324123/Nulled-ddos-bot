@@ -1,7 +1,7 @@
 {
-  "prefix": ".", //command prefix 
+  "prefix": "-hi", //command prefix 
   "mintime": "10",//minimum seconds per attack
   "maxtime": "400", //max seconds per attack
-  "owner": "ur id",
+  "owner": "856054937208619018",
   "token": "ODU2MDU0OTM3MjA4NjE5MDE4.YM7dSQ.LWHoLScD3f4UMcbqNKboh8BsbVs"
 }
